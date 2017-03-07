@@ -1,0 +1,6 @@
+BatmanBegins(2005),5.0,Action|Crime|IMAX
+SupermanReturns(2006),5.0,Action|Adventure|Sci-Fi|IMAX
+ManonWire(2008),5.0,Documentary
+PrincessDiariesThe(2001),2.5,Children|Comedy|Romance
+BlackSwan(2010),0.5,Drama|Thriller
+Titanic(1997),2.0,Drama|Romance
